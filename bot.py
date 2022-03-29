@@ -30,13 +30,13 @@ async def start(event):
 ┗━━━━━━━━━━━━━━━━━
  
   ʜɪᴛ /help **FOR MORE**
- [❤](https://telegra.ph/file/2fa3a833f3ccc1d98dba1.jpg),
+ [❤](https://te.legra.ph/file/0f738af80bd579c37624a.jpg),
 """,
     link_preview=False,
     buttons=(
        [
-        Button.url(' support', 'https://t.me/chucky_support'),
-        Button.url('creater', 'https://t.me/kittu_the_criminall')
+        Button.url(' support', 'https://t.me/The_professor_network'),
+        Button.url('creater', 'https://t.me/Papa_bol_sakteho')
     ],
     )
   )
@@ -49,8 +49,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url(' support', 'https://t.me/chucky_support'),
-        Button.url('creater', 'https://t.me/kittu_the_criminall')
+        Button.url(' support', 'https://t.me/Tpn_chatroom'),
+        Button.url('creater', 'https://t.me/Papa_bol_sakteho')
       ]
     )
   )
