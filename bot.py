@@ -21,12 +21,13 @@ spam_chats = []
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply(
-"""ʜᴏɪ,
+""""__**𝐈'𝐦 📌𝐀𝐉𝐄𝐄𝐓 𝐓𝐚𝐠𝐀𝐥𝐥 𝐁𝐨𝐭**, 𝐢 𝐂𝐚𝐧 𝐌𝐞𝐧𝐭𝐢𝐨𝐧 𝐀𝐥𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐈𝐧 𝐆𝐫𝐨𝐮𝐩 𝐎𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 👻\n𝐂𝐥𝐢𝐜𝐤 **/help** 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧__\n\n 𝐅𝐨𝐥𝐥𝐨𝐰 [𝐀𝐣𝐞𝐞𝐭𝐆𝐨𝐧𝐝](https://t.me/papa_bol_sakteho) 𝗢𝗻 𝐓𝐞𝐥𝐞𝐆𝐫𝐚𝐦 ",
 ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ TAGALL ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! 
 *𝐇𝐄𝐘! ,*
 ┏━━━━━━━━━━━━━━━━
 ┣ ₪ *ADD ME YOUR GROUP* `
 ┣ ₪ IAM POWER FULL TAGGER BOT
+┣ ₪ __\n\n ᴄʀᴇᴀᴛᴇᴅ ʙʏ [𝐀𝐣𝐞𝐞𝐭𝐆𝐨𝐧𝐝](https://t.me/papa_bol_sakteho)
 ┗━━━━━━━━━━━━━━━━━
  
   ʜɪᴛ /help **FOR MORE**
@@ -129,5 +130,5 @@ async def cancel_spam(event):
       pass
     return await event.respond('__Stopped.__')
 
-print(">> BOT STARTED <<")
+print(">> 📌🄰🄹🄴🄴🅃 🆃🅰🅶 🄱🄾🅃 <<")
 client.run_until_disconnected()
